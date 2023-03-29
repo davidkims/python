@@ -1,0 +1,3 @@
+git add .github/workflows/python_script_workflow.yml your_python_script.py requirements.txt
+git commit -m "Add workflow to run Python script"
+git push origin main
